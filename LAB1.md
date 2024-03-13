@@ -1,9 +1,9 @@
-##Zadanie 1
+## Zadanie 1
 Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka:
-• wypełnianie deklaracji PIT nie wymaga inteligencji człowieka ponieważ jest to działanie schematyczne,
-• streszczanie tekstu wymaga inteligencji człowieka ponieważ pojawia się potrzeba wybrania najważniejszych fragmentów oraz ich spójne połączenie,
-• tłumaczenie tekstu wymaga inteligencji człowieka ponieważ tekst może zawierać specyficzne zwroty i sformułowania, których znaczenie może zależeć od danego kontekstu i sytuacji,
-• klasyfikacja tekstu do kategorii tematycznych nie wymaga inteligencji człowieka,
+..* wypełnianie deklaracji PIT nie wymaga inteligencji człowieka ponieważ jest to działanie schematyczne,
+..* streszczanie tekstu wymaga inteligencji człowieka ponieważ pojawia się potrzeba wybrania najważniejszych fragmentów oraz ich spójne połączenie,
+..* tłumaczenie tekstu wymaga inteligencji człowieka ponieważ tekst może zawierać specyficzne zwroty i sformułowania, których znaczenie może zależeć od danego kontekstu i sytuacji,
+..* klasyfikacja tekstu do kategorii tematycznych nie wymaga inteligencji człowieka,
 • odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim),
 • układanie rozkładu jazdy transportu miejskiego,
 • programowanie (pisanie programów komputerowych),
@@ -17,7 +17,7 @@ Które z następujących zadań wymagają w Twojej opinii inteligencji od człow
 
 
 
-##Zadanie 2
+## Zadanie 2
 Które z następujących problemów można uznać za mieszczące się w zakresie sztucznej
 inteligencji:
 • streszczanie tekstu,
@@ -33,7 +33,7 @@ inteligencji:
 
 
 
-##Zadanie 3
+## Zadanie 3
 Które z poniższych rodzajów komunikacyjnego zachowania człowieka mogą być
 obecnie skutecznie imitowane przez sztuczne systemy (odpowiednio oprogramowane
 maszyny):
