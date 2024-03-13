@@ -1,4 +1,4 @@
-## Zadanie 1
+##Zadanie 1
 Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka:
 • wypełnianie deklaracji PIT nie wymaga inteligencji człowieka ponieważ jest to działanie schematyczne,
 • streszczanie tekstu wymaga inteligencji człowieka ponieważ pojawia się potrzeba wybrania najważniejszych fragmentów oraz ich spójne połączenie,
@@ -17,7 +17,7 @@ Które z następujących zadań wymagają w Twojej opinii inteligencji od człow
 
 
 
-## Zadanie 2
+##Zadanie 2
 Które z następujących problemów można uznać za mieszczące się w zakresie sztucznej
 inteligencji:
 • streszczanie tekstu,
@@ -33,12 +33,12 @@ inteligencji:
 
 
 
-## Zadanie 3
+##Zadanie 3
 Które z poniższych rodzajów komunikacyjnego zachowania człowieka mogą być
 obecnie skutecznie imitowane przez sztuczne systemy (odpowiednio oprogramowane
 maszyny):
 • rozmowa towarzyska,
 • dyskusja polityczna,
 • dyskusja naukowa,
-• odpowiadanie na pytania klientów w telefonicznej infolinii,
-• odpowiadanie na pytania klientów w internetowej infolinii.
+• odpowiadanie na pytania klientów w telefonicznej infolinii może być i jest imitowane przez sztuczne systemy ponieważ takie rozmowy są często bardzo schematyczne,
+• odpowiadanie na pytania klientów w internetowej infolinii może być i jest imitowane przez sztuczne systemy ponieważ takie rozmowy są często bardzo schematyczne.
